@@ -8,5 +8,6 @@ We classified a good squat based on the depth and safety of it (if back was roun
 
 Our program calculates angles based off the points of major joints predicted from each photo using Human Pose Estimation.
 
+
 We referenced code from: https://github.com/kunjshah2511/Human-Pose-Estimation
 Many thanks!
