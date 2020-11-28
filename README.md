@@ -16,4 +16,5 @@ We first take a picture of a squat, then we calculate the points of the joints u
 
 <h2 aligh="center">Credit: </h2>
 We referenced and used code from: https://github.com/kunjshah2511/Human-Pose-Estimation
+
 Many thanks!
