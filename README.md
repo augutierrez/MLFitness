@@ -2,7 +2,7 @@
 <h2 aligh="center">Authors : Antonio Gutierrez and Keeven Savanathan </h2>
 A machine learning project project for our USF CS 486-04 Machine Learning class.
 
-<h2 aligh="center">Goal</h2>
+<h2 aligh="center">Goal:</h2>
 The goal of MLFitness is to classify a good squat or bad squat.
 We created data and got some off Google.  
 We classified a good squat based on the depth and safety of it (if back was rounded or not).
@@ -20,6 +20,10 @@ To replicate this project, please follow the instructions at : https://www.learn
 Our data lies in our "data" folder and good squats are labled as "gs(#of pic)" and bad squats are labeled as "bs(#of pic)".
 We have original data, pictures taken of ourselves and friends, as well as some data found from Google.
 
+<h2 aligh="center">Limitations/Future Aspirations:</h2>
+Our project only takes into consideration pictures of squats taken from a side view.
+Because we were in a time crunch, we have very limited data, only a total of 112 photos that are used from our data.
+We hope to implement multiple angles, add more data, and expand upon the project by implementing the classification of more exercises in the future!
 <h2 aligh="center">Credit: </h2>
 We referenced and used code from: https://github.com/kunjshah2511/Human-Pose-Estimation
 
