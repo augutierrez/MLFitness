@@ -25,6 +25,6 @@ Our project only takes into consideration pictures of squats taken from a side v
 Because we were in a time crunch, we have very limited data, only a total of 112 photos that are used from our data.
 We hope to implement multiple angles, add more data, and expand upon the project by implementing the classification of more exercises in the future!
 <h2 aligh="center">Credit: </h2>
-We referenced and used code from: https://github.com/kunjshah2511/Human-Pose-Estimation
+We referenced and used code from: https://github.com/kunjshah2511/Human-Pose-Estimation for the implementation of our Human Pose Model.
 
 Many thanks!
